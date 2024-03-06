@@ -1,0 +1,50 @@
+* {
+  padding: o;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  border: 1px solid #75464ae0;
+  width: 550.95px;
+  height: 900px;
+  border-radius: 50px;
+  margin: 100px;
+  font-size: 24px;
+}
+
+img {
+  width: 500px;
+  height: 484.44px;
+  border-radius: 79px;
+  margin: 26px;
+}
+.mechanical {
+  color: brown;
+  margin-left: 34px;
+}
+.first {
+  margin-top: 100px;
+}
+.keyboard {
+  font-weight: 700;
+}
+.dollar {
+  margin-left: 229px;
+  color: #ff0000;
+}
+.new {
+  color: red;
+}
+.second {
+  margin-top: 41px;
+  margin-left: 34px;
+}
+button {
+  width: 255.4px;
+  height: 65.79px;
+  border-radius: 28.83px;
+  background-color: coral;
+  margin-left: 147px;
+  margin-top: 57px;
+}
